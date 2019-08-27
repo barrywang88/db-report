@@ -1,2 +1,6 @@
 *.class
+.idea/
+!/project/target/
 *.log
+*/target
+target/
